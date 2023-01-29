@@ -9,4 +9,5 @@ Address:     Size (bytes):     Description:
 0xC1F0       1                 Remaining Enemy Count
 0xC1F7       1                 Remaining Time - Minutes
 0xC1F8       1                 Remaining Time - Seconds
+0xC25C       1                 Camera or map drawing X offset?
 ```
