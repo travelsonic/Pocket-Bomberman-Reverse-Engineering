@@ -1,5 +1,6 @@
 Note: This document is far from complete
-Work RAM (WRAM) Bank 0 (0xC000 - 0xCFFF):
+
+## Work RAM (WRAM) Bank 0 (0xC000 - 0xCFFF):
 ```
 Address:     Size (bytes):     Description:
 0xC1EC       1                 Bomb Count
