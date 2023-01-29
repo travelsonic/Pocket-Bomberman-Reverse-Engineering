@@ -1,0 +1,12 @@
+Note: This document is far from complete
+Work RAM (WRAM) Bank 0 (0xC000 - 0xCFFF):
+```
+Address:     Size (bytes):     Description:
+0xC1EC       1                 Bomb Count
+0xC1ED       1                 Bomb Blast Radius 
+0xC1EE       1                 Movement Speed
+0xC1EF       1                 Life Count
+0xC1F0       1                 Remaining Enemy Count
+0xC1F7       1                 Remaining Time - Minutes
+0xC1F8       1                 Remaining Time - Seconds
+```
