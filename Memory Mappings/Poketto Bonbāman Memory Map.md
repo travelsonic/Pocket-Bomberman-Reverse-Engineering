@@ -11,5 +11,5 @@ Address: | Size (bytes): | Description:                           | Notes:
 0xC1F7     1               Remaining Time - Minutes
 0xC1F8     1               Remaining Time - Seconds
 0xC25C     1               Camera or map drawing X offset?
-0xC452     1               Manual Detonation and Flying Flags?    | Appears to use 1 nibble (4 bits) for each.
+0xC452     1               Manual Detonation and Flying Flags?      Appears to use 1 nibble (4 bits) for each.
 ```
